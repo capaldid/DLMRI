@@ -1,27 +1,9 @@
 # Deep Learning Ventilation Magnetic Resonance Imaging
 
-This repository is an implementation of "[Deep Convolutional Neural Network Pulmonary Ventilation Maps Trained using Free breathing ^1H and Hyperpolarized ^3He MR Ventilation Imaging.](https://doi.org/10.1016/j.ijrobp.2020.03.023)" submitted to  the _Radiology_ 2020 by Dante Capaldi and colleagues.
+This repository is an implementation of "[Deep Convolutional Neural Network Pulmonary Ventilation Maps Trained using Free breathing Proton and Hyperpolarized Helium-3 MR Ventilation Imaging.](https://github.com/capaldid/DLMRI/)" submitted to  the _Radiology_ 2020 by Dante Capaldi and colleagues.  This GitHub is currently under development and will be available shortly.  Furthermore, the models for this application are available via email from the co-authors of this work.
 
-![PRM](https://github.com/capaldid/PRM/blob/master/PRM_Figure.png)
+![DL-Vent MRI](https://github.com/capaldid/DLMRI/blob/master/DLVentFigure.png)
 
-## Requirements
-
-- Xcode Version 11.6 or newer
-- Apple iOS device (tested and implemented on an iPhone X)
-
-### Some of the code is from the following libraries
-- [Charts](https://github.com/danielgindi/Charts)
-- [CounterView](https://www.raywenderlich.com/8003281-core-graphics-tutorial-getting-started)
-
-## Files and Documentation
-
-The PRM code as well as the synthetic datasets are provided.
-
-```
-src\PRM_PET_DCE_CT.m        - main code
-src\PRM_Test_Dataset_1.mat  - Simple synthetic 2D square with equal compartments
-src\PRM_Test_Dataset_2.mat  - Synthetic 3D volume
-```
 
 ## License
 
