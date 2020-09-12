@@ -1,6 +1,6 @@
 # Deep Learning Ventilation Magnetic Resonance Imaging
 
-This repository is an implementation of "[Parametric Response Mapping of Coregistered Positron Emission Tomography and Dynamic Contrast Enhanced Computed Tomography to Identify Radioresistant Subvolumes in Locally Advanced Cervical Cancer.](https://doi.org/10.1016/j.ijrobp.2020.03.023)" in the _International Journal of Radiation Oncology * Biology * Physics_ 2020 by Dante Capaldi and colleagues.
+This repository is an implementation of "[Deep Convolutional Neural Network Pulmonary Ventilation Maps Trained using Free breathing ^1H and Hyperpolarized ^3He MR Ventilation Imaging.](https://doi.org/10.1016/j.ijrobp.2020.03.023)" submitted to  the _Radiology_ 2020 by Dante Capaldi and colleagues.
 
 ![PRM](https://github.com/capaldid/PRM/blob/master/PRM_Figure.png)
 
@@ -12,13 +12,6 @@ This repository is an implementation of "[Parametric Response Mapping of Coregis
 ### Some of the code is from the following libraries
 - [Charts](https://github.com/danielgindi/Charts)
 - [CounterView](https://www.raywenderlich.com/8003281-core-graphics-tutorial-getting-started)
-
-### 3D printed case for the iPhone X
-- [iPhone X Case stl File](https://www.thingiverse.com/thing:2824602)
-
-
-### As well as a AVATAR system used in the project
-- [AVATAR](https://sites.google.com/view/stanford-avatar)
 
 ## Files and Documentation
 
