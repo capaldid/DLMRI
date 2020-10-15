@@ -17,8 +17,7 @@ This repository is an implementation of "[Deep Convolutional Neural Network Pulm
 The DL-Vent code to run test image and model are provided.
 
 ```
-src\InstantRespiratoryFeeback_Final.zip     - main code
-src\3D_Printing                             - 3D printing files
+src\code     - main code
 ```
 
 The trained model can be downloaded from [here](https://github.com/capaldid/DLMRI/).
