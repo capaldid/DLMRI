@@ -1,6 +1,6 @@
 # Deep Learning Ventilation Magnetic Resonance Imaging
 
-This repository is an implementation of "[Deep Convolutional Neural Network Pulmonary Ventilation Maps Trained using Free breathing Proton and Hyperpolarized Helium-3 MR Ventilation Imaging.](https://github.com/capaldid/DLMRI/)" accepted with revisions to  the _Radiology_ 2020 by Dante Capaldi and colleagues.
+This repository is an implementation of "[Pulmonary Ventilation Maps Generated with Free-breathing Proton MRI and a Deep Convolutional Neural Network.](https://doi.org/10.1148/radiol.2020202861)" in _Radiology_ 2020 by Dante Capaldi and colleagues.
 
 ![DL-Vent MRI](https://github.com/capaldid/DLMRI/blob/master/DLVentFigure.png)
 
@@ -17,19 +17,19 @@ This repository is an implementation of "[Deep Convolutional Neural Network Pulm
 The DL-Vent code to run test image and model are provided.
 
 ```
-src\code     - main code
+src\DLMRI_DCNN.zip     - main code
 ```
 
-The trained model can be downloaded from [here](https://github.com/capaldid/DLMRI/).
+The trained model can be received from the corresponding author upon request.
 
 ## Citation
 
 ```
 @article{capaldi2020DLVentMRI,
-  title={Technical Note: Evaluation of Audiovisual Biofeedback Smartphone Application for Respiratory Monitoring in Radiation Oncology},
+  title={Pulmonary Ventilation Maps Generated with Free-breathing Proton MRI and a Deep Convolutional Neural Network},
   author={Capaldi, Dante PI and Guo, Fumin and Xing, Lei and Parraga, Grace},
   journal={Radiology},
-  year={Accepted with Revisions},
+  year={2020},
   publisher={Radiological Society of North America}
 }
 ```
