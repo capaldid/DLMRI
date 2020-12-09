@@ -20,7 +20,7 @@ The DL-Vent code to run test image and model are provided.
 src\DLMRI_DCNN.zip     - main code
 ```
 
-The trained model can be received from the corresponding author upon request.
+The trained model can be downloaded [here](https://gitlab.com/fumin.guo/dante_capaldi_DLMRI).
 
 ## Citation
 
