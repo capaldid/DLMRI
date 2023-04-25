@@ -22,7 +22,7 @@ src\DLMRI_DCNN.zip     - main code
 
 ### Running the Code
 
-1. Download the VGG16 weights from [here](https://github.com/ChengBinJin/MRI-to-CT-DCNN-TensorFlow).
+1. Please contact us to download the VGG16 weights (previously downloadable from [here](https://github.com/ChengBinJin/MRI-to-CT-DCNN-TensorFlow)).
 
 2. Download trained model from [here](https://gitlab.com/fumin.guo/dante_capaldi_DLMRI).
 
